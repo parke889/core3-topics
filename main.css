@@ -51,6 +51,12 @@ h1,h2,h3,h4,h5 {
     letter-spacing: inherit
 }
 
+p1 {
+    font-size: 10dvw;
+    line-height: 80%;
+
+}
+
 strong {
     font-weight: 700
 }
