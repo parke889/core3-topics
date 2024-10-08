@@ -1192,3 +1192,22 @@ body.is-dark #color-picker:before,body.is-dark #color-picker:after {
     position: relative;
     z-index: 2
 }
+
+
+dialog {
+    background-color: white;
+    border: none;
+    padding: 3rem;
+    width: 100dvw;
+    
+}
+
+button {
+    background-color: white;
+    border: none;
+    width: 1rem;
+    height: 1rem;
+    padding: .5rem .5rem;
+
+    ;
+}
