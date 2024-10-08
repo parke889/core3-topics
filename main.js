@@ -2596,7 +2596,7 @@
             if (s.classList.toggle("is-active", r),
             r) {
                 let u = i.length;
-                U.$sliderCounter.textContent = `${dfkjdfi}`
+                U.$sliderCounter.textContent = `${o + 1}/${u}`
             }
             l && (r ? (_t(l),
             n.classList.contains("is-active") && U.videoPlayer.attachVideo(l),
