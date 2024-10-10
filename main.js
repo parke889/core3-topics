@@ -1410,7 +1410,7 @@
                 opacity: 0,
                 pointerEvents: "none",
                 duration: 0,
-                delay: Mn(35)
+                delay: Mn(5)
             }))
         }
         ),
